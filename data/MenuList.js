@@ -6,5 +6,9 @@ export const menu = [
   "Home",
   "Kitchen",
   "Computers",
-  "Fashion"
+  "Fashion",
+  "Grocery",
+  "Travel",
+  "Laptops",
+  "Desktop"
 ];
